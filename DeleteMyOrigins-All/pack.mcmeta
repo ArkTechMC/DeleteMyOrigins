@@ -1,0 +1,7 @@
+{
+    "pack":{
+        "description":"Remove internal origins in Origins Mod",
+        "pack_format":15,
+        "supported_formats":[7,100]
+    }
+}
